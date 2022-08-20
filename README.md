@@ -4,10 +4,10 @@
 - 🌱 I’m currently learning quantum mechanics, quantum dots, quantum dynamics and computational physics.
 - 🤔:computer: I’m looking for help with everything related with computational physics simulations that included parallel computation and quantum theoretical physics.
 - 📫 How to reach me:
-++ :e-mail: [Email adress](martinmendez@mi.unc.edu.ar)
-++ :briefcase: [Linked-in profile](https://www.linkedin.com/in/mendez-martin/)
-++ :microscope: [Research profile](https://www.conicet.gov.ar/new_scp/detalle.php?id=61676&keywords=&datos_academicos=yes)
-- 
+-- :e-mail: [Email adress](martinmendez@mi.unc.edu.ar)
+-- :briefcase: [Linked-in profile](https://www.linkedin.com/in/mendez-martin/)
+-- :microscope: [Research profile](https://www.conicet.gov.ar/new_scp/detalle.php?id=61676&keywords=&datos_academicos=yes)
+
 
 <!--
 **mendzmartin/mendzmartin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

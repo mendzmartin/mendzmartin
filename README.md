@@ -7,7 +7,9 @@
   * :e-mail: [Email adress](martinmendez@mi.unc.edu.ar)
   * :briefcase: [Linked-in profile](https://www.linkedin.com/in/mendez-martin/)
   * :microscope: [Research profile](https://www.conicet.gov.ar/new_scp/detalle.php?id=61676&keywords=&datos_academicos=yes)
-
+- Other useful links:
+  - [CONICET](https://www.conicet.gov.ar/)
+  - [FaMAF-UNC](https://www.famaf.unc.edu.ar/)
 
 <!--
 **mendzmartin/mendzmartin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

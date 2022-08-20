@@ -2,11 +2,11 @@
 
 - 🔭 I’m currently PhD Studen of physics at Condensed Matter Theory Group (GTMC) - Institute of Physics Enrique Gaviola (IFEG) - National Scientific and Technical Research Council (CONICET) - Mathematics, Astronomy, Physics and Computation Faculty (FaMAF) - National University of Córdoba (UNC).
 - 🌱 I’m currently learning quantum mechanics, quantum dots, quantum dynamics and computational physics.
-- 🤔:computer: I’m looking for help with everything related with computational physics simulations that included parallel computation and quantum theoretical physics.
+- 🤔:computer: I’m looking for help with everything related to computational physics simulations that include parallel computation and quantum theoretical physics.
 - 📫 How to reach me:
--- :e-mail: [Email adress](martinmendez@mi.unc.edu.ar)
--- :briefcase: [Linked-in profile](https://www.linkedin.com/in/mendez-martin/)
--- :microscope: [Research profile](https://www.conicet.gov.ar/new_scp/detalle.php?id=61676&keywords=&datos_academicos=yes)
+*  :e-mail: [Email adress](martinmendez@mi.unc.edu.ar)
+*  :briefcase: [Linked-in profile](https://www.linkedin.com/in/mendez-martin/)
+*  :microscope: [Research profile](https://www.conicet.gov.ar/new_scp/detalle.php?id=61676&keywords=&datos_academicos=yes)
 
 
 <!--

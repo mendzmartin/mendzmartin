@@ -4,8 +4,8 @@
 > I’m currently PhD Candidate of physics at Condensed Matter Theory Group (GTMC), Institute of Physics Enrique Gaviola (IFEG), [National Scientific and Technical Research Council (CONICET)](https://www.conicet.gov.ar/) - [Mathematics, Astronomy, Physics and Computation Faculty (FaMAF), National University of Córdoba (UNC)](https://www.famaf.unc.edu.ar/). Currently I’m learning quantum mechanics, quantum dots, quantum dynamics and computational physics. Therefore I'm looking for help with everything related to computational physics simulations that include parallel computation and quantum theoretical physics.
 
 ### How to reach me
-- [Email contact](martinmendez@mi.unc.edu.ar); [Linked-in profile](https://www.linkedin.com/in/mendez-martin/)
-- [CONICET profile](https://www.conicet.gov.ar/new_scp/detalle.php?id=61676&keywords=&datos_academicos=yes); [Google Scholar profile](https://scholar.google.com/citations?user=12b8yIQAAAAJ&hl=en); [ResearchGate profile](https://scholar.google.com/citations?user=12b8yIQAAAAJ&hl=en)
+- [Email](martinmendez@mi.unc.edu.ar); [Linked-in](https://www.linkedin.com/in/mendez-martin/)
+- [CONICET](https://www.conicet.gov.ar/new_scp/detalle.php?id=61676&keywords=&datos_academicos=yes); [Google Scholar](https://scholar.google.com/citations?user=12b8yIQAAAAJ&hl=en); [ResearchGate](https://scholar.google.com/citations?user=12b8yIQAAAAJ&hl=en)
 
 <!--
 **mendzmartin/mendzmartin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

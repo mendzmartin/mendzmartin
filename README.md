@@ -7,14 +7,14 @@
 
 > :floppy_disk: :computer: I’m looking for help with everything related to computational physics simulations that include parallel computation and quantum theoretical physics.
 
-### :red_circle: How to reach me
-- :e-mail: [Email adress](martinmendez@mi.unc.edu.ar)
-- :briefcase: [Linked-in profile](https://www.linkedin.com/in/mendez-martin/)
-- :microscope: [Research profile](https://www.conicet.gov.ar/new_scp/detalle.php?id=61676&keywords=&datos_academicos=yes)
+### How to reach me
+- :e-mail: [martinmendez@mi.unc.edu.ar](martinmendez@mi.unc.edu.ar)
+- Linked-in profile: [https://www.linkedin.com/in/mendez-martin/](https://www.linkedin.com/in/mendez-martin/)
+- Research profile: [https://www.conicet.gov.ar/new_scp/detalle.php?id=61676&keywords=&datos_academicos=yes](https://www.conicet.gov.ar/new_scp/detalle.php?id=61676&keywords=&datos_academicos=yes)
 
-### :red_circle: Others useful links
-- :school: [CONICET](https://www.conicet.gov.ar/)
-- :school: [FaMAF-UNC](https://www.famaf.unc.edu.ar/)
+### Useful liks
+- CONICET: [https://www.conicet.gov.ar/](https://www.conicet.gov.ar/)
+- FaMAF-UNC: [https://www.famaf.unc.edu.ar/](https://www.famaf.unc.edu.ar/)
 
 <!--
 **mendzmartin/mendzmartin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

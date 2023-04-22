@@ -8,9 +8,12 @@
 > :floppy_disk: :computer: I’m looking for help with everything related to computational physics simulations that include parallel computation and quantum theoretical physics.
 
 ### How to reach me
-- :e-mail: [martinmendez@mi.unc.edu.ar](martinmendez@mi.unc.edu.ar)
+- Email contact: [martinmendez@mi.unc.edu.ar](martinmendez@mi.unc.edu.ar)
 - Linked-in profile: [https://www.linkedin.com/in/mendez-martin/](https://www.linkedin.com/in/mendez-martin/)
-- Research profile: [https://www.conicet.gov.ar/new_scp/detalle.php?id=61676&keywords=&datos_academicos=yes](https://www.conicet.gov.ar/new_scp/detalle.php?id=61676&keywords=&datos_academicos=yes)
+- Research profile
+  - CONICET profile: [https://www.conicet.gov.ar/new_scp/detalle.php?id=61676&keywords=&datos_academicos=yes](https://www.conicet.gov.ar/new_scp/detalle.php?id=61676&keywords=&datos_academicos=yes)
+  - Google Scholar profile: [https://scholar.google.com/citations?user=12b8yIQAAAAJ&hl=en](https://scholar.google.com/citations?user=12b8yIQAAAAJ&hl=en)
+  - ResearchGate profile: [https://scholar.google.com/citations?user=12b8yIQAAAAJ&hl=en](https://scholar.google.com/citations?user=12b8yIQAAAAJ&hl=en)
 
 ### Useful liks
 - CONICET: [https://www.conicet.gov.ar/](https://www.conicet.gov.ar/)

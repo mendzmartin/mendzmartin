@@ -1,6 +1,6 @@
 # Hi there 👋 :bangbang:
 
-### :red_circle: About me
+### About me
 > 🔭 :books: I’m currently PhD Candidate of physics at Condensed Matter Theory Group (GTMC), Institute of Physics Enrique Gaviola (IFEG), National Scientific and Technical Research Council (CONICET) - Mathematics, Astronomy, Physics and Computation Faculty (FaMAF), National University of Córdoba (UNC).
 
 > 🌱 :bow: I’m currently learning quantum mechanics, quantum dots, quantum dynamics and computational physics.
